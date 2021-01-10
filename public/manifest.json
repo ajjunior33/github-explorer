@@ -1,0 +1,20 @@
+{
+  "short_name": "Github Explorer",
+  "name": "Tenha seus repositórios favoritos em um único lugar.",
+  "icons": [
+    {
+      "src": "favicons/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicons/android-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#737380",
+  "background_color": "#737380"
+}
